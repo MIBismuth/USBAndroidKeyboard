@@ -1,7 +1,7 @@
 # USBAndroidKeyBoard
 Basic Android App that allows sending text and keypresses as USB Keyboard.
 
-## ForeWord
+## Foreword
 
 This app is absolutely terrible at the moment.
 
