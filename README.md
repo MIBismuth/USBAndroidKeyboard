@@ -1,5 +1,5 @@
 # USBAndroidKeyBoard
-Barebones Android App that allows sending text and keypresses as USB Keyboard.
+Basic Android App that allows sending text and keypresses as USB Keyboard.
 
 ## ForeWord
 
